@@ -26,11 +26,6 @@
   Atualmente focado em Segurança da Informação e automação com Python. Apaixonado por transformar códigos complexos em interfaces funcionais e seguras.
 </p>
 
-<p align="left">
-  <a href="https://www.youtube.com/seu_canal"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://linkedin.com/in/seu_usuario"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Charyflux?tab=followers"><img src="https://img.shields.io/badge/SEGUIDORES-1.6K-blue?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
 
 ---
 
@@ -47,10 +42,7 @@
 ---
 
 ### 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charyflux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charyflux&layout=compact&langs_count=7&theme=tokyonight&border_radius=10" />
-</p>
+
 
 ---
 
