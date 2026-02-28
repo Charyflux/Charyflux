@@ -1,4 +1,4 @@
-# <p align="center">── SYSTEM_DATA // CHARYFLUX ──</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=180&section=header&text=CHARYFLUX&fontSize=80&fontColor=00f2ff&animation=glitch" />
@@ -13,7 +13,7 @@
      ╚██████╗██║  ██║██║  ██║██║  ██║   ██║   ██║     ███████╗╚██████╔╝██╔╝ ██╗
       ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
 
-                    > STATUS: ROOT_ACCESS_GRANTED // PORT: 8080 <
+                  
 </pre>
 </p>
 
