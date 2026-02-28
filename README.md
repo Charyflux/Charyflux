@@ -1,16 +1,20 @@
-## Hi there 👋
+# <p align="center">── SCRP_OS // USER: CHARYFLUX ──</p>
 
-<!--
-**Charyflux/Charyflux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=glitch&color=00f2ff&height=200&section=header&text=ACCESS%20GRANTED&fontSize=70&animation=fadeIn" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-00f2ff?style=for-the-badge&logo=ghostery&logoColor=black" />
+  <img src="https://img.shields.io/badge/LOCATION-CYBERSPACE-bc13fe?style=for-the-badge&logo=torbrowser&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROLE-NEURAL_ARCHITECT-00f2ff?style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 > WHOAMI.exe
+```text
+[SYSTEM]: Inicializando protocolo de bio-dados...
+[USER]: Charyflux
+[INTEL]: Desenvolvedor focado em soluções futuristas e arquitetura de sistemas.
+[GOAL]: Romper as barreiras entre a interface e o usuário.
