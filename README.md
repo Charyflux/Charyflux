@@ -50,5 +50,4 @@
 ```text
 [SYSTEM]: Inicializando protocolo de bio-dados...
 [USER]: Charyflux
-[INTEL]: Cybersecurity & Backend Architect.
-[GOAL]: Romper as barreiras entre a interface e o usuário.
+
