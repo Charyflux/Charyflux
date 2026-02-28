@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=180&section=header&text=CHARYFLUX&fontSize=80&fontColor=00f2ff&animation=glitch" />
+
 </p>
 
 <p align="center">
@@ -17,10 +17,7 @@
 </pre>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-00f2ff?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/DATABASE-CONNECTED-bc13fe?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=120&section=header&text=SOFTWARE%20ENGINEER&fontSize=40&fontColor=00f2ff&animation=twinkling" />
