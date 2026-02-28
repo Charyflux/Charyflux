@@ -19,9 +19,7 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=120&section=header&text=SOFTWARE%20ENGINEER&fontSize=40&fontColor=00f2ff&animation=twinkling" />
-</p>
+
 
 <p align="left">
   <strong>Desenvolvedor focado em soluções futuristas e arquitetura de sistemas.</strong><br>
